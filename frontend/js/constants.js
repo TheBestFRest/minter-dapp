@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the BoredApeMeta2 NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The BoredApeMeta2 NFT Project. You can reach it also in opensea <a href="https://opensea.io/BoredApeMeta2"  target="_blank" rel="noopener noreferrer">opensear</a>.';
+const welcome_p = 'The BoredApeMeta2 NFT Project. You can reach it also in opensea <a href="https://opensea.io/BoredApeMeta2"  target="_blank" rel="noopener noreferrer">OpenSea</a>.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
